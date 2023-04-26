@@ -1,0 +1,15 @@
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ControleMedicamentos\bin\Debug\net6.0\ControleMedicamentos.exe
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ControleMedicamentos\bin\Debug\net6.0\ControleMedicamentos.deps.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ControleMedicamentos\bin\Debug\net6.0\ControleMedicamentos.runtimeconfig.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ControleMedicamentos\bin\Debug\net6.0\ControleMedicamentos.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ControleMedicamentos\bin\Debug\net6.0\ControleMedicamentos.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ControleMedicamentos\obj\Debug\net6.0\ControleMedicamentos.csproj.AssemblyReference.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ControleMedicamentos\obj\Debug\net6.0\ControleMedicamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ControleMedicamentos\obj\Debug\net6.0\ControleMedicamentos.AssemblyInfoInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ControleMedicamentos\obj\Debug\net6.0\ControleMedicamentos.AssemblyInfo.cs
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ControleMedicamentos\obj\Debug\net6.0\ControleMedicamentos.csproj.CoreCompileInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ControleMedicamentos\obj\Debug\net6.0\ControleMedicamentos.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ControleMedicamentos\obj\Debug\net6.0\refint\ControleMedicamentos.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ControleMedicamentos\obj\Debug\net6.0\ControleMedicamentos.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ControleMedicamentos\obj\Debug\net6.0\ControleMedicamentos.genruntimeconfig.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ControleMedicamentos\obj\Debug\net6.0\ref\ControleMedicamentos.dll
